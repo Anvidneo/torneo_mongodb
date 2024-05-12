@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "66413606e7392d154a1f317a"
+  },
+  "nombre": "Mark Clattenburg",
+  "país": "Inglaterra",
+  "experiencia": "20 años",
+  "ligas": [
+    "Premier League",
+    "La Liga",
+    "Serie A"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66413606e7392d154a1f317b"
+  },
+  "nombre": "Felix Brych",
+  "país": "Alemania",
+  "experiencia": "15 años",
+  "ligas": [
+    "Bundesliga",
+    "UEFA Champions League"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66413606e7392d154a1f317c"
+  },
+  "nombre": "Sandro Ricci",
+  "país": "Brasil",
+  "experiencia": "12 años",
+  "ligas": [
+    "Brasileirão",
+    "Copa Libertadores"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66413606e7392d154a1f317d"
+  },
+  "nombre": "Howard Webb",
+  "país": "Inglaterra",
+  "experiencia": "18 años",
+  "ligas": [
+    "Premier League",
+    "UEFA Europa League"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66413606e7392d154a1f317e"
+  },
+  "nombre": "Pierluigi Collina",
+  "país": "Italia",
+  "experiencia": "25 años",
+  "ligas": [
+    "Serie A",
+    "FIFA World Cup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66413606e7392d154a1f317f"
+  },
+  "nombre": "Cüneyt Çakır",
+  "país": "Turquía",
+  "experiencia": "14 años",
+  "ligas": [
+    "Süper Lig",
+    "UEFA Super Cup"
+  ]
+}]

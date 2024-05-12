@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6641361be7392d154a1f3182"
+  },
+  "equipo_local": "Liverpool",
+  "equipo_visitante": "Manchester City",
+  "fecha": "2024-05-12",
+  "estadio": "Anfield",
+  "árbitro": "Felix Brych"
+},
+{
+  "_id": {
+    "$oid": "6641361be7392d154a1f3183"
+  },
+  "equipo_local": "Real Madrid",
+  "equipo_visitante": "Paris Saint-Germain (PSG)",
+  "fecha": "2024-05-13",
+  "estadio": "Santiago Bernabéu",
+  "árbitro": "Mark Clattenburg"
+},
+{
+  "_id": {
+    "$oid": "6641361be7392d154a1f3184"
+  },
+  "equipo_local": "Barcelona",
+  "equipo_visitante": "Bayern Munich",
+  "fecha": "2024-05-14",
+  "estadio": "Camp Nou",
+  "árbitro": "Pierluigi Collina"
+},
+{
+  "_id": {
+    "$oid": "6641361be7392d154a1f3185"
+  },
+  "equipo_local": "Juventus",
+  "equipo_visitante": "Atlético Madrid",
+  "fecha": "2024-05-15",
+  "estadio": "Allianz Stadium",
+  "árbitro": "Cüneyt Çakır"
+},
+{
+  "_id": {
+    "$oid": "6641361be7392d154a1f3186"
+  },
+  "equipo_local": "Manchester United",
+  "equipo_visitante": "Chelsea",
+  "fecha": "2024-05-16",
+  "estadio": "Old Trafford",
+  "árbitro": "Howard Webb"
+},
+{
+  "_id": {
+    "$oid": "6641361be7392d154a1f3187"
+  },
+  "equipo_local": "Borussia Dortmund",
+  "equipo_visitante": "AC Milan",
+  "fecha": "2024-05-17",
+  "estadio": "Signal Iduna Park",
+  "árbitro": "Sandro Ricci"
+}]

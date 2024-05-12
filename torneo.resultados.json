@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6641362be7392d154a1f318a"
+  },
+  "equipo_local": "Liverpool",
+  "equipo_visitante": "Manchester City",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "Victoria"
+},
+{
+  "_id": {
+    "$oid": "6641362be7392d154a1f318b"
+  },
+  "equipo_local": "Real Madrid",
+  "equipo_visitante": "Paris Saint-Germain (PSG)",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "resultado": "Derrota"
+},
+{
+  "_id": {
+    "$oid": "6641362be7392d154a1f318c"
+  },
+  "equipo_local": "Barcelona",
+  "equipo_visitante": "Bayern Munich",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "Empate"
+},
+{
+  "_id": {
+    "$oid": "6641362be7392d154a1f318d"
+  },
+  "equipo_local": "Juventus",
+  "equipo_visitante": "Atlético Madrid",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "Victoria"
+},
+{
+  "_id": {
+    "$oid": "6641362be7392d154a1f318e"
+  },
+  "equipo_local": "Manchester United",
+  "equipo_visitante": "Chelsea",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "Empate"
+},
+{
+  "_id": {
+    "$oid": "6641362be7392d154a1f318f"
+  },
+  "equipo_local": "Borussia Dortmund",
+  "equipo_visitante": "AC Milan",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "resultado": "Victoria"
+}]

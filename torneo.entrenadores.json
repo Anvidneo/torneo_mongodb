@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "664133abe7392d154a1f3172"
+  },
+  "nombre": "Josep Guardiola",
+  "edad": 51,
+  "país": "España",
+  "equipo_actual": "Manchester City",
+  "títulos_ganados": 30,
+  "años_experiencia": 15
+},
+{
+  "_id": {
+    "$oid": "664133abe7392d154a1f3173"
+  },
+  "nombre": "Jürgen Klopp",
+  "edad": 54,
+  "país": "Alemania",
+  "equipo_actual": "Liverpool",
+  "títulos_ganados": 15,
+  "años_experiencia": 20
+},
+{
+  "_id": {
+    "$oid": "664133abe7392d154a1f3174"
+  },
+  "nombre": "Zinedine Zidane",
+  "edad": 49,
+  "país": "Francia",
+  "equipo_actual": "Sin equipo",
+  "títulos_ganados": 11,
+  "años_experiencia": 7
+},
+{
+  "_id": {
+    "$oid": "664133abe7392d154a1f3175"
+  },
+  "nombre": "Diego Simeone",
+  "edad": 51,
+  "país": "Argentina",
+  "equipo_actual": "Atlético Madrid",
+  "títulos_ganados": 10,
+  "años_experiencia": 12
+},
+{
+  "_id": {
+    "$oid": "664133abe7392d154a1f3176"
+  },
+  "nombre": "Pep Guardiola",
+  "edad": 51,
+  "país": "España",
+  "equipo_actual": "Manchester City",
+  "títulos_ganados": 30,
+  "años_experiencia": 15
+}]

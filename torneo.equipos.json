@@ -1,0 +1,164 @@
+[{
+  "_id": {
+    "$oid": "664131a4e7392d154a1f3161"
+  },
+  "nombre_equipo": "Paris Saint-Germain (PSG)",
+  "país": "Francia",
+  "liga": "Ligue 1",
+  "estadio": "Parc des Princes",
+  "entrenador": "Mauricio Pochettino",
+  "jugadores_destacados": [
+    "Lionel Messi",
+    "Neymar Jr.",
+    "Kylian Mbappé"
+  ]
+},
+{
+  "_id": {
+    "$oid": "664131a4e7392d154a1f3162"
+  },
+  "nombre_equipo": "Manchester United",
+  "país": "Inglaterra",
+  "liga": "Premier League",
+  "estadio": "Old Trafford",
+  "entrenador": "Ralf Rangnick",
+  "jugadores_destacados": [
+    "Cristiano Ronaldo",
+    "Jadon Sancho",
+    "Edinson Cavani"
+  ]
+},
+{
+  "_id": {
+    "$oid": "664131a4e7392d154a1f3163"
+  },
+  "nombre_equipo": "Liverpool",
+  "país": "Inglaterra",
+  "liga": "Premier League",
+  "estadio": "Anfield",
+  "entrenador": "Jürgen Klopp",
+  "jugadores_destacados": [
+    "Mohamed Salah",
+    "Sadio Mané",
+    "Roberto Firmino"
+  ]
+},
+{
+  "_id": {
+    "$oid": "664131a4e7392d154a1f3164"
+  },
+  "nombre_equipo": "Bayern Munich",
+  "país": "Alemania",
+  "liga": "Bundesliga",
+  "estadio": "Allianz Arena",
+  "entrenador": "Julian Nagelsmann",
+  "jugadores_destacados": [
+    "Robert Lewandowski"
+  ]
+},
+{
+  "_id": {
+    "$oid": "664131a4e7392d154a1f3165"
+  },
+  "nombre_equipo": "Real Madrid",
+  "país": "España",
+  "liga": "La Liga",
+  "estadio": "Santiago Bernabéu",
+  "entrenador": "Carlo Ancelotti",
+  "jugadores_destacados": [
+    "Karim Benzema",
+    "Gareth Bale"
+  ]
+},
+{
+  "_id": {
+    "$oid": "664131a4e7392d154a1f3166"
+  },
+  "nombre_equipo": "Tottenham Hotspur",
+  "país": "Inglaterra",
+  "liga": "Premier League",
+  "estadio": "Tottenham Hotspur Stadium",
+  "entrenador": "Antonio Conte",
+  "jugadores_destacados": [
+    "Harry Kane"
+  ]
+},
+{
+  "_id": {
+    "$oid": "664131a4e7392d154a1f3167"
+  },
+  "nombre_equipo": "Atlético Madrid",
+  "país": "España",
+  "liga": "La Liga",
+  "estadio": "Estadio Metropolitano",
+  "entrenador": "Diego Simeone",
+  "jugadores_destacados": [
+    "Luis Suárez",
+    "Antoine Griezmann"
+  ]
+},
+{
+  "_id": {
+    "$oid": "664131a4e7392d154a1f3168"
+  },
+  "nombre_equipo": "Chelsea",
+  "país": "Inglaterra",
+  "liga": "Premier League",
+  "estadio": "Stamford Bridge",
+  "entrenador": "Thomas Tuchel",
+  "jugadores_destacados": [
+    "Romelu Lukaku"
+  ]
+},
+{
+  "_id": {
+    "$oid": "664131a4e7392d154a1f3169"
+  },
+  "nombre_equipo": "Manchester City",
+  "país": "Inglaterra",
+  "liga": "Premier League",
+  "estadio": "Etihad Stadium",
+  "entrenador": "Pep Guardiola",
+  "jugadores_destacados": [
+    "Raheem Sterling"
+  ]
+},
+{
+  "_id": {
+    "$oid": "664131a4e7392d154a1f316a"
+  },
+  "nombre_equipo": "Borussia Dortmund",
+  "país": "Alemania",
+  "liga": "Bundesliga",
+  "estadio": "Signal Iduna Park",
+  "entrenador": "Marco Rose",
+  "jugadores_destacados": [
+    "Erling Haaland"
+  ]
+},
+{
+  "_id": {
+    "$oid": "664131a4e7392d154a1f316b"
+  },
+  "nombre_equipo": "Barcelona",
+  "país": "España",
+  "liga": "La Liga",
+  "estadio": "Camp Nou",
+  "entrenador": "Xavi Hernández",
+  "jugadores_destacados": [
+    "Memphis Depay"
+  ]
+},
+{
+  "_id": {
+    "$oid": "664131a4e7392d154a1f316c"
+  },
+  "nombre_equipo": "Napoli",
+  "país": "Italia",
+  "liga": "Serie A",
+  "estadio": "Stadio Diego Armando Maradona",
+  "entrenador": "Luciano Spalletti",
+  "jugadores_destacados": [
+    "Dries Mertens"
+  ]
+}]

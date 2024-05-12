@@ -1,0 +1,300 @@
+[{
+  "_id": {
+    "$oid": "6641317be7392d154a1f314b"
+  },
+  "nombre": "Lionel Messi",
+  "posición": "Delantero",
+  "edad": 34,
+  "país": "Argentina",
+  "equipo_actual": "Paris Saint-Germain (PSG)",
+  "goles_carrera": 755,
+  "asistencias_carrera": 345,
+  "tarjetas_amarillas": 92,
+  "tarjetas_rojas": 2,
+  "títulos_liga": 10
+},
+{
+  "_id": {
+    "$oid": "6641317be7392d154a1f314c"
+  },
+  "nombre": "Cristiano Ronaldo",
+  "posición": "Delantero",
+  "edad": 38,
+  "país": "Portugal",
+  "equipo_actual": "Manchester United",
+  "goles_carrera": 807,
+  "asistencias_carrera": 215,
+  "tarjetas_amarillas": 87,
+  "tarjetas_rojas": 1,
+  "títulos_liga": 7
+},
+{
+  "_id": {
+    "$oid": "6641317be7392d154a1f314d"
+  },
+  "nombre": "Neymar Jr.",
+  "posición": "Delantero",
+  "edad": 30,
+  "país": "Brasil",
+  "equipo_actual": "Paris Saint-Germain (PSG)",
+  "goles_carrera": 250,
+  "asistencias_carrera": 170,
+  "tarjetas_amarillas": 56,
+  "tarjetas_rojas": 3,
+  "títulos_liga": 6
+},
+{
+  "_id": {
+    "$oid": "6641317be7392d154a1f314e"
+  },
+  "nombre": "Kylian Mbappé",
+  "posición": "Delantero",
+  "edad": 24,
+  "país": "Francia",
+  "equipo_actual": "Paris Saint-Germain (PSG)",
+  "goles_carrera": 162,
+  "asistencias_carrera": 94,
+  "tarjetas_amarillas": 18,
+  "tarjetas_rojas": 0,
+  "títulos_liga": 4
+},
+{
+  "_id": {
+    "$oid": "6641317be7392d154a1f314f"
+  },
+  "nombre": "Robert Lewandowski",
+  "posición": "Delantero",
+  "edad": 33,
+  "país": "Polonia",
+  "equipo_actual": "Bayern Munich",
+  "goles_carrera": 470,
+  "asistencias_carrera": 126,
+  "tarjetas_amarillas": 58,
+  "tarjetas_rojas": 0,
+  "títulos_liga": 8
+},
+{
+  "_id": {
+    "$oid": "6641317be7392d154a1f3150"
+  },
+  "nombre": "Mohamed Salah",
+  "posición": "Delantero",
+  "edad": 30,
+  "país": "Egipto",
+  "equipo_actual": "Liverpool",
+  "goles_carrera": 260,
+  "asistencias_carrera": 109,
+  "tarjetas_amarillas": 33,
+  "tarjetas_rojas": 1,
+  "títulos_liga": 3
+},
+{
+  "_id": {
+    "$oid": "6641317be7392d154a1f3151"
+  },
+  "nombre": "Karim Benzema",
+  "posición": "Delantero",
+  "edad": 34,
+  "país": "Francia",
+  "equipo_actual": "Real Madrid",
+  "goles_carrera": 343,
+  "asistencias_carrera": 147,
+  "tarjetas_amarillas": 48,
+  "tarjetas_rojas": 1,
+  "títulos_liga": 6
+},
+{
+  "_id": {
+    "$oid": "6641317be7392d154a1f3152"
+  },
+  "nombre": "Sadio Mané",
+  "posición": "Delantero",
+  "edad": 29,
+  "país": "Senegal",
+  "equipo_actual": "Liverpool",
+  "goles_carrera": 177,
+  "asistencias_carrera": 78,
+  "tarjetas_amarillas": 22,
+  "tarjetas_rojas": 0,
+  "títulos_liga": 4
+},
+{
+  "_id": {
+    "$oid": "6641317be7392d154a1f3153"
+  },
+  "nombre": "Harry Kane",
+  "posición": "Delantero",
+  "edad": 29,
+  "país": "Inglaterra",
+  "equipo_actual": "Tottenham Hotspur",
+  "goles_carrera": 260,
+  "asistencias_carrera": 125,
+  "tarjetas_amarillas": 36,
+  "tarjetas_rojas": 0,
+  "títulos_liga": 0
+},
+{
+  "_id": {
+    "$oid": "6641317be7392d154a1f3154"
+  },
+  "nombre": "Erling Haaland",
+  "posición": "Delantero",
+  "edad": 22,
+  "país": "Noruega",
+  "equipo_actual": "Borussia Dortmund",
+  "goles_carrera": 101,
+  "asistencias_carrera": 33,
+  "tarjetas_amarillas": 12,
+  "tarjetas_rojas": 0,
+  "títulos_liga": 0
+},
+{
+  "_id": {
+    "$oid": "6641317be7392d154a1f3155"
+  },
+  "nombre": "Luis Suárez",
+  "posición": "Delantero",
+  "edad": 35,
+  "país": "Uruguay",
+  "equipo_actual": "Atlético Madrid",
+  "goles_carrera": 470,
+  "asistencias_carrera": 163,
+  "tarjetas_amarillas": 99,
+  "tarjetas_rojas": 3,
+  "títulos_liga": 6
+},
+{
+  "_id": {
+    "$oid": "6641317be7392d154a1f3156"
+  },
+  "nombre": "Antoine Griezmann",
+  "posición": "Delantero",
+  "edad": 32,
+  "país": "Francia",
+  "equipo_actual": "Atlético Madrid",
+  "goles_carrera": 230,
+  "asistencias_carrera": 118,
+  "tarjetas_amarillas": 43,
+  "tarjetas_rojas": 1,
+  "títulos_liga": 5
+},
+{
+  "_id": {
+    "$oid": "6641317be7392d154a1f3157"
+  },
+  "nombre": "Romelu Lukaku",
+  "posición": "Delantero",
+  "edad": 29,
+  "país": "Bélgica",
+  "equipo_actual": "Chelsea",
+  "goles_carrera": 266,
+  "asistencias_carrera": 89,
+  "tarjetas_amarillas": 50,
+  "tarjetas_rojas": 2,
+  "títulos_liga": 4
+},
+{
+  "_id": {
+    "$oid": "6641317be7392d154a1f3158"
+  },
+  "nombre": "Gareth Bale",
+  "posición": "Delantero",
+  "edad": 32,
+  "país": "Gales",
+  "equipo_actual": "Real Madrid",
+  "goles_carrera": 186,
+  "asistencias_carrera": 103,
+  "tarjetas_amarillas": 38,
+  "tarjetas_rojas": 0,
+  "títulos_liga": 5
+},
+{
+  "_id": {
+    "$oid": "6641317be7392d154a1f3159"
+  },
+  "nombre": "Raheem Sterling",
+  "posición": "Delantero",
+  "edad": 28,
+  "país": "Inglaterra",
+  "equipo_actual": "Manchester City",
+  "goles_carrera": 140,
+  "asistencias_carrera": 104,
+  "tarjetas_amarillas": 34,
+  "tarjetas_rojas": 0,
+  "títulos_liga": 5
+},
+{
+  "_id": {
+    "$oid": "6641317be7392d154a1f315a"
+  },
+  "nombre": "Jadon Sancho",
+  "posición": "Delantero",
+  "edad": 23,
+  "país": "Inglaterra",
+  "equipo_actual": "Manchester United",
+  "goles_carrera": 56,
+  "asistencias_carrera": 45,
+  "tarjetas_amarillas": 11,
+  "tarjetas_rojas": 0,
+  "títulos_liga": 1
+},
+{
+  "_id": {
+    "$oid": "6641317be7392d154a1f315b"
+  },
+  "nombre": "Memphis Depay",
+  "posición": "Delantero",
+  "edad": 29,
+  "país": "Países Bajos",
+  "equipo_actual": "Barcelona",
+  "goles_carrera": 187,
+  "asistencias_carrera": 92,
+  "tarjetas_amarillas": 26,
+  "tarjetas_rojas": 2,
+  "títulos_liga": 3
+},
+{
+  "_id": {
+    "$oid": "6641317be7392d154a1f315c"
+  },
+  "nombre": "Roberto Firmino",
+  "posición": "Delantero",
+  "edad": 30,
+  "país": "Brasil",
+  "equipo_actual": "Liverpool",
+  "goles_carrera": 157,
+  "asistencias_carrera": 79,
+  "tarjetas_amarillas": 40,
+  "tarjetas_rojas": 0,
+  "títulos_liga": 4
+},
+{
+  "_id": {
+    "$oid": "6641317be7392d154a1f315d"
+  },
+  "nombre": "Dries Mertens",
+  "posición": "Delantero",
+  "edad": 35,
+  "país": "Bélgica",
+  "equipo_actual": "Napoli",
+  "goles_carrera": 153,
+  "asistencias_carrera": 105,
+  "tarjetas_amarillas": 43,
+  "tarjetas_rojas": 1,
+  "títulos_liga": 2
+},
+{
+  "_id": {
+    "$oid": "6641317be7392d154a1f315e"
+  },
+  "nombre": "Edinson Cavani",
+  "posición": "Delantero",
+  "edad": 35,
+  "país": "Uruguay",
+  "equipo_actual": "Manchester United",
+  "goles_carrera": 383,
+  "asistencias_carrera": 98,
+  "tarjetas_amarillas": 64,
+  "tarjetas_rojas": 4,
+  "títulos_liga": 5
+}]
